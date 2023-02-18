@@ -1,0 +1,18 @@
+#Please specify the AWS access key ID
+AWS_ACCESS_KEY_ID=
+
+#Please specify the AWS secret access key
+AWS_SECRET_ACCESS_KEY=
+
+#Please specify the bucket name from where you want to pull
+Bucket_Name=
+
+#Please specify the folder name, within the bucket, if there is file inside it
+Folder_Name=
+
+#Please specify the file names, you want to pull from S3
+#Keep file names separated by comma, and do not give any space after comma
+File_Names=
+
+#Please specify the destination path, where you want to pull file, like '/directory1/directory2'
+Destination_Folder_Path=/app/EOL_Utility/Testing_Work
